@@ -1,2 +1,2 @@
-# React-with-JSON
+# React
 React
