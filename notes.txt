@@ -1,7 +1,9 @@
 Basic react :- 
     First of all the variable declare for the first letter in the capital 
-    and filename First letter also be capital and Specially(.js)
+    and filename First letter also be capital and Specially(.js).
 
 Basic Vite :-
     There is a strictly follow feet in file name first later capital and 
-    variable first letter capital also and (.JSX)
+    variable first letter capital also and (.JSX).
+
+Today we learn about of JSX and custom React and Repository read and create element method.
