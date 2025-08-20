@@ -26,7 +26,7 @@ function App() {
     setPassword(pass)
 
 
-  }, [length, numberAllowed, charAllowed, setPassword])
+  }, [length, numberAllowed, charAllowed, setPassword])  //setPassword Compulsory not to write only password. it optimizes performance memory and cach
 
   const copyPasswordToClipboard = useCallback(() => {
     passwordRef.current?.select();
