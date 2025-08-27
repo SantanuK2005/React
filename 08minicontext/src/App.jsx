@@ -1,10 +1,11 @@
 
 import './App.css'
 import Login from './components/Login'
-import UserContext from './context/UserContext'
+import Profile from './components/Profile'
+import UserContextProvider from "./context/UserContexProvider";
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <UserContextProvider>
@@ -15,4 +16,4 @@ function App() {
   )
 }
 
-export default App
+export default App;
